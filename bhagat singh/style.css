@@ -1,0 +1,43 @@
+body{
+  background-image: url(https://cutewallpaper.org/21/dark-website-backgrounds/Background-patterns-web-dark-website-blogger-beautiful-image-.jpg)
+}
+
+h1{
+  font-size: 50px;
+  text-align: center;
+  
+}
+#image{
+  background-color: #e5e8e8;
+  position: relative;
+  display: block;
+  margin: auto;
+ -webkit-box-shadow: 2px -1px 5px 5px rgba(245,228,245,0.74);
+-moz-box-shadow: 2px -1px 5px 5px rgba(245,228,245,0.74);
+box-shadow: 2px -1px 5px 5px rgba(245,228,245,0.74);
+  max-width: 100%;
+  height: auto;
+  border-radius: 5%;
+
+ }
+
+#img-caption{
+  text-align: center;
+  font-size: 50px;
+}
+#tribute{
+  text-align: center;
+
+  margin: 5% 25% 5% 25%;
+}
+
+h2{
+  text-align: center;
+}
+#tribute-info{
+  font-size: 30px;
+}
+h1,h2,p{
+  color: #e5e7e9 ;
+  font-family: 'Dancing Script', cursive;
+}
